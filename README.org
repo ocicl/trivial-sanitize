@@ -1,0 +1,10 @@
+* trivial-sanitize
+
+
+
+|---------+-------------------------------------------|
+| source  | git:https://notabug.org/cage/trivial-sanitize.git   |
+| commit  |   |
+| systems | trivial-sanitize |
+|---------+-------------------------------------------|
+

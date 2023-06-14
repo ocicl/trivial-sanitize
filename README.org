@@ -1,10 +1,9 @@
 * trivial-sanitize
 
+clean html strings: "<a>foo</a>" → "foo"
 
-
-|---------+-------------------------------------------|
-| source  | git:https://notabug.org/cage/trivial-sanitize.git   |
-| commit  |   |
-| systems | trivial-sanitize |
-|---------+-------------------------------------------|
-
+|---------+---------------------------------------------------|
+| source  | git:https://notabug.org/cage/trivial-sanitize.git |
+| commit  | cc2e420fd5                                        |
+| systems | trivial-sanitize                                  |
+|---------+---------------------------------------------------|

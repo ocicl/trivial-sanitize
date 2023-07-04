@@ -4,6 +4,6 @@ clean html strings: "<a>foo</a>" → "foo"
 
 |---------+---------------------------------------------------|
 | source  | git:https://notabug.org/cage/trivial-sanitize.git |
-| commit  | cc2e420fd5                                        |
+| commit  | cc0a3e6587                                        |
 | systems | trivial-sanitize                                  |
 |---------+---------------------------------------------------|

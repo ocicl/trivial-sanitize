@@ -2,8 +2,9 @@
 
 clean html strings: "<a>foo</a>" → "foo"
 
+
 |---------+---------------------------------------------------|
 | source  | git:https://notabug.org/cage/trivial-sanitize.git |
-| commit  | cc0a3e6587                                        |
+| commit  | cc0a3e6                                           |
 | systems | trivial-sanitize                                  |
 |---------+---------------------------------------------------|

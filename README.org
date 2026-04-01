@@ -8,3 +8,4 @@ clean html strings: "<a>foo</a>" → "foo"
 | commit  | a673b56                                           |
 | systems | trivial-sanitize                                  |
 |---------+---------------------------------------------------|
+ 
